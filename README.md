@@ -1,2 +1,2 @@
 # Data_Science_ML_NLP-Natural-Language-Processing-
-Hands-on projects, exercises, and notes from the Maven Analytics – Python Natural Language Processing course. Covers the full NLP journey — from text preprocessing and ML models to neural networks, transformers, and LLMs — including installation, benchmarking, Hugging Face integration, and final assessments.
+Hands-on projects, exercises, and notes from the [Maven Analytics](https://mavenanalytics.io) – [**Natural Language Processing in Python**](https://mavenanalytics.io/course/python-natural-language-processing) course. Covers the full NLP journey — from text preprocessing and ML models to neural networks, transformers, and LLMs — including installation, benchmarking, Hugging Face integration, and final assessments.
